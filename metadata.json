@@ -1,0 +1,5 @@
+{
+  "name": "The Final Cipher",
+  "description": "An interactive escape room style quiz. Solve the clues to reveal the hidden letters. Combine the letters to unlock the final secret.",
+  "requestFramePermissions": []
+}
